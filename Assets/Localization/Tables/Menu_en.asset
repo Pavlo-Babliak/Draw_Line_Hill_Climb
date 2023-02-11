@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0feba90f88c40094b85a5999ad817e69, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4860234932224
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5210429956096
+    m_Localized: Garage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5332773609472
+    m_Localized: Maps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5694129676288
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876203749376
+    m_Localized: Complete the passage?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995145822208
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8047482347520
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8127966846976
+    m_Localized: Take
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10071573766144
+    m_Localized: Engine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10245188591616
+    m_Localized: Transmission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10392802926592
+    m_Localized: Suspender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10922900037632
+    m_Localized: Traction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12073858998272
+    m_Localized: Characteristics of the car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12275412082688
+    m_Localized: Mass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12336493731840
+    m_Localized: Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12441590407168
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18624317464576
+    m_Localized: Paradise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18696719540224
+    m_Localized: Old Civilization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18817431609344
+    m_Localized: An alien planet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18882359435264
+    m_Localized: Unknown world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56380653543424
+    m_Localized: Buy this maps?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2217904801292288
+    m_Localized: 'Great location for vacation
+
+      The relief is moderate, without
+      deep outcrops and high elevations.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2230444675538944
+    m_Localized: A planet with dangerous cliffs, steep climbs and unexplored caves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2231501686284288
+    m_Localized: 'The land on which no human foot has stepped is full of surprises
+
+      Take
+      care of your head!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2233342318845952
+    m_Localized: The hot desert hides many interesting mysteries. I wonder how much
+      these stones weigh?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12720982973456384
+    m_Localized: Exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12721995583299584
+    m_Localized: Exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17062468464648192
+    m_Localized: Levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17433777417723904
+    m_Localized: Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23936954682023936
+    m_Localized: "\u0410rcade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23939983875481600
+    m_Localized: New Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23941107139452928
+    m_Localized: The new map is under development. If you have your own ideas, we
+      will be glad to hear them. And maybe your option will be updated in the next
+      one:)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

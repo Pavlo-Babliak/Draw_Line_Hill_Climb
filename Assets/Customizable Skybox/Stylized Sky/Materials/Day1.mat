@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Day1
+  m_Shader: {fileID: 4800000, guid: eb3c6fb598ded4c71b8968e1c40a3b4d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _HorizonLineContribution: 0.5
+    - _HorizonLineExponent: 2
+    - _SkyGradientExponent: 1
+    - _SunDiscContribution: 1
+    - _SunDiscExponent: 12500
+    - _SunDiscMultiplier: 60.42
+    - _SunHaloContribution: 0.55
+    - _SunHaloExponent: 125.84
+    - _Title: 0
+    - __dirty: 0
+    m_Colors:
+    - _HorizonLineColor: {r: 0.2924528, g: 0.21630472, b: 0.2860599, a: 1}
+    - _SkyGradientBottom: {r: 0.8235294, g: 0.94768804, b: 1, a: 1}
+    - _SkyGradientTop: {r: 0.10588236, g: 0.7876891, b: 0.99215686, a: 1}
+    - _SunDiscColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SunHaloColor: {r: 1, g: 0.7742698, b: 0.2113207, a: 1}
+  m_BuildTextureStacks: []
